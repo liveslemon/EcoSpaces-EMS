@@ -1,0 +1,5 @@
+{
+  "name": "EcoSense IoT Dashboard",
+  "description": "A futuristic Energy Management System for hostels and classrooms featuring real-time occupancy detection and automated controls.",
+  "requestFramePermissions": []
+}

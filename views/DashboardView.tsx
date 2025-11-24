@@ -1,0 +1,1 @@
+// This file is deprecated. Please use GeneralDashboardView.tsx or RoomDetailView.tsx
